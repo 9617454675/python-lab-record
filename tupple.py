@@ -1,5 +1,5 @@
 # Creating a tuple:
-Tuple = ("First index", 1, 2, 3, "akash", True, False, "Last index")
+Tuple = ("First index", 1, 2, 3, "mayank", True, False, "Last index")
 
 # Functions in tuple:
 print("Length of tuple", len(Tuple))  # length of tuple
@@ -15,7 +15,7 @@ print("nested tuple in list:", List)  # printing tuple in list
 # converting tuple into list for mutations
 List1 = list(New_Tuple)
 print("Changing tuple into list", List1)  # converting tuple into list
-List1[1] = "akash"  # changing value
+List1[1] = "mayank"  # changing value
 print("After changing value : ", List1)
 
 # appending in tuple by changing tuple into list:
